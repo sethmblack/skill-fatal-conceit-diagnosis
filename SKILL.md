@@ -3,8 +3,9 @@ name: fatal-conceit-diagnosis
 description: Identify the pretense of knowledge in plans, policies, proposals, and expertise claims. Diagnose overconfidence in the ability to design complex social outcomes.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3986
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fatal-conceit-diagnosis
 - transformation
