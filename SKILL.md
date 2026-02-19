@@ -4,7 +4,7 @@ description: Identify the pretense of knowledge in plans, policies, proposals, a
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3986
+  version: 1.0.3987
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fatal-conceit-diagnosis
